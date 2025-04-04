@@ -63,7 +63,7 @@ app.use((req, res, next) => {
 const host = "0.0.0.0";
 
 server.listen({ port, host, reusePort: true }, () => {
-  console.log(`Server running at http://yourdomain.com`);
+  console.log(`Server running at http://nainaaa.vercel.app`);
 });
 
 })();
